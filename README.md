@@ -6,7 +6,7 @@ The AUROC for training and testing sets trained by XGBoost algorithm
 
 
 To explain how the machine learning model made the prediction, we used the Shapley Additive exPlanations (SHAP) value to evaluate the output of the models that help to understand the direction and strength of the selected features in the final model.
-![shape](https://user-images.githubusercontent.com/55526809/144149687-f40fe979-3a64-4521-974d-dba4da21f21e.png)
+![image](https://user-images.githubusercontent.com/55526809/144150228-6acf600a-1129-4532-9a93-d8c9b78dfcc4.png)
 
 
 The calibration curve for goodness-of-fit diagnosis for XGBoost algorithm
